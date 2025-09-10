@@ -240,4 +240,5 @@ st.markdown("""
 
 # Pie de página
 st.markdown("---")
-st.markdown("© 2023 Cancún FC - Departamento de Análisis Táctico | [Enviar CV](mailto:sebastian@cancunfc.com)")
+
+st.markdown("© 2025 Cancún FC - Departamento de Análisis Táctico | Desarrollado por: Javier Horacio Pérez Ricárdez")
